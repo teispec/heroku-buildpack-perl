@@ -36,7 +36,7 @@ fi
 
 # install apache if needed
 # if [ ! -d $APACHE_PATH ]; then
-  echo "-----> Bundling Apache"
+  echo "-----> Bundling Apacheaaaaaaaaaaaaaa"
   curl --silent --max-time 60 --location $APACHE_BUNDLE | tar xz
 #
 
