@@ -9,8 +9,6 @@ mkdir /app/sw
 
 cd /tmp
 
-echo '---> teispec buliding...'
-
 echo '---> Fetching Apache2'
 wget --progress=dot:mega http://mirror.metrocast.net/apache/httpd/httpd-2.2.21.tar.gz
 
